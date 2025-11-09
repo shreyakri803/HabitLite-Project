@@ -1,0 +1,6 @@
+ID,Date Logged,Issue Description,Category,Severity,Priority,Owner,Target Fix Date,Status,Resolution Notes
+I1,2025-11-20,Weekly summary calculates streak incorrectly,Functional,High,High,Shreya,2025-11-24,Open,Pending logic fix
+I2,2025-11-20,CSV export fails when no habits exist,Functional,Medium,Medium,Shreya,2025-11-23,Open,Add empty state handling
+I3,2025-11-21,Mobile layout shifts on smaller screens,UI,Medium,Medium,Shreya,2025-11-25,In Progress,Testing responsiveness
+I4,2025-11-22,Checkbox toggle animation lags on older phones,UI,Low,Low,Shreya,2025-11-28,Open,Optimize click handler
+I5,2025-11-22,Deleting a habit doesn’t update summary view immediately,Functional,Medium,High,Shreya,2025-11-24,Open,Trigger summary refresh
