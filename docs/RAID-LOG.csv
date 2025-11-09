@@ -1,1 +1,9 @@
-
+Category,ID,Date Logged,Description,Impact,Priority,Owner,Mitigation / Action,Status
+Risk,RA1,2025-11-10,LocalStorage may fail on some browsers,Medium,High,Shreya,Test early across Chrome and mobile,Open
+Assumption,A1,2025-11-10,Beta users will be available during testing phase,Medium,Medium,Shreya,Have 2 backup testers ready,Valid
+Issue,I1,2025-11-12,Weekly view displays incorrect streak count,High,High,Shreya,Identify logic bug and fix in next build,Open
+Dependency,D1,2025-11-12,Export library dependency for CSV generation,Medium,Medium,Shreya,Test library before integration,Pending
+Risk,RA2,2025-11-13,UI inconsistencies on mobile screens,Medium,High,Shreya,Implement responsive layout,Open
+Assumption,A2,2025-11-14,User prefers minimal habits per day,Low,Low,Shreya,Keep UI simple and lightweight,Valid
+Issue,I2,2025-11-15,Delete habit function not updating UI,Medium,High,Shreya,Fix handler logic,Open
+Dependency,D2,2025-11-15,Beta testing must be completed before release,High,High,Shreya,Collect feedback on time,Pending
