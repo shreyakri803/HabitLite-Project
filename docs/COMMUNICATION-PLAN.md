@@ -39,5 +39,33 @@ All task progress, comments, and blockers logged in Trello and GitHub Issues.
 **Type:** Diagram uploads  
 **Method:** `/designs` folder in GitHub  
 **Frequency:** As needed  
-**Owner:** P
+**Owner:** PM  
+**Details:** Beta users provide feedback which is recorded in the Issue Log.
+
+## 4. Stakeholder Communication Matrix
+| Stakeholder | Information Needed | Format | Frequency |
+|-------------|---------------------|---------|-----------|
+| Project Manager (Self) | Status, issues, risks, changes | Docs / Trello / GitHub | Daily |
+| Beta Users | Test instructions, links, updates | Email / Form | Testing Phase |
+| Reviewers (Interviewers/Recruiters) | Project documentation | GitHub Repository | Once, at project end |
+
+## 5. Document Storage & Version Control
+All project artifacts are stored in GitHub under appropriate folders:  
+- `/docs` – PM documents & templates  
+- `/designs` – diagrams, screenshots, UI sketches  
+- `/issues-log` – issue tracking  
+- `/status-reports` – weekly reports  
+
+Repository serves as the single source of truth.
+
+## 6. Escalation Guidelines (Simulated)
+- Issues blocking core functionality → escalate to PM (self) within 1 day  
+- High-severity bugs → immediate fix during testing  
+- Scope change → evaluated and documented in Change Request Form
+
+## 7. Tools Used
+- Trello (Kanban board)  
+- Draw.io (User flow, wireframes)  
+- Google Sheets/Docs (Logs, reports)  
+- GitHub (Documentation, final archive)
 
