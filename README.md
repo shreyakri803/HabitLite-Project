@@ -15,32 +15,55 @@ The project follows a structured, simulated 1-week timeline and includes all doc
 HabitLite-Project/
 │
 ├── README.md
+
 │
 ├── docs/
+
 │   ├── PROJECT-CHARTER.md
+
 │   ├── SCOPE.md
+
 │   ├── WBS.md
+
 │   ├── GANTT.md
+
 │   ├── RACI.md
+
 │   ├── COMMUNICATION-PLAN.md
+
 │   ├── RISK-REGISTER.csv
+
 │   ├── RAID-LOG.csv
+
 │   ├── UAT-TESTCASES.md
+
 │   ├── CHANGE-REQUEST.md
+
 │   ├── RELEASE-PLAN.md
+
 │   └── LESSONS-LEARNED.md
+
 │
 ├── designs/
+
 │   ├── TRELLO-BOARD.png
+
 │   ├── USER-FLOW.png
+
 │   └── WIREFRAME.png
+
 │
 ├── status-reports/
+
 │   ├── STATUS-WEEK1.md
+
 │   └── STATUS-WEEK1.png
+
 │
-└── issues-log/
+└── issues-log
+
     └── ISSUE-LOG.csv
+    
 
 
 
