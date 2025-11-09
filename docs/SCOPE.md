@@ -58,5 +58,15 @@ Scope includes requirements gathering, UI design, development, testing, document
 ## 6. Assumptions
 - Users will access the app via browser  
 - Data will be stored locally only  
-- Be
+- Beta users have basic familiarity with web apps  
+
+## 7. Acceptance Criteria
+- All “Must Have” features implemented and tested  
+- CSV file downloads correctly  
+- Weekly summary calculations are accurate  
+- No high-severity bugs at release  
+
+## 8. Out-of-Scope Justification
+Cloud sync, scheduling, and push notifications require backend servers and paid services.  
+These are explicitly excluded to maintain MVP simplicity and free-tool limitations.
 
