@@ -14,6 +14,7 @@ The project follows a structured, simulated 1-week timeline and includes all doc
 ---
 ## 📂 Project Folder Structure
 
+```
 HabitLite-Project/
 │
 ├── README.md
@@ -43,6 +44,7 @@ HabitLite-Project/
 │
 └── issues-log/
     └── ISSUE-LOG.csv
+```
 
 ---
 
