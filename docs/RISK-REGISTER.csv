@@ -1,1 +1,6 @@
-
+ID,Date Identified,Description,Impact,Likelihood,Priority,Owner,Mitigation Plan,Status
+R1,2025-11-10,Delay due to solo workload,High,Medium,High,Shreya,Timebox tasks daily and reduce scope creep,Open
+R2,2025-11-10,LocalStorage may not preserve data on all browsers,Medium,Low,Medium,Shreya,Test early on Chrome and mobile view,Open
+R3,2025-11-11,UI may break on small screens,Medium,Medium,Medium,Shreya,Use simple responsive layout and test on mobile,Open
+R4,2025-11-12,Weekly summary logic may miscount streaks,High,Medium,High,Shreya,Write clear logic and test multiple scenarios,Open
+R5,2025-11-13,Beta testers may not submit feedback,Low,High,Medium,Shreya,Send reminder and reduce number of mandatory users,Open
